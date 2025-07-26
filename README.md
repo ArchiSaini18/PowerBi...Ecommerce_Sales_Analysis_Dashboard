@@ -90,4 +90,4 @@ Trend Monitoring: Use monthly and quarterly views to respond quickly to changing
 Revenue & Profit Tracking: A unified place to monitor KPIs like AOV, profit, and sales volume
 
 Screenshots:
-link:()
+link:(https://github.com/ArchiSaini18/PowerBi...Ecommerce_Sales_Analysis_Dashboard/blob/main/ecommerce_image.png)
